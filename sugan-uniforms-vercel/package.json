@@ -6,12 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
+    "preview": "vite preview",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "vite": "^5.4.2",
     "@vitejs/plugin-react": "^4.3.1"
-  }
+  },
+  "dependencies": {}
 }
